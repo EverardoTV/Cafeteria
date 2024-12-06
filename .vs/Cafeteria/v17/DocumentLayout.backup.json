@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TR Network\\Desktop\\Cafeteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67661DCA-30B9-450B-A04A-71836BF0E5EC}|Cafeteria.csproj|c:\\users\\tr network\\desktop\\cafeteria\\assets\\js\\draganddrop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{67661DCA-30B9-450B-A04A-71836BF0E5EC}|Cafeteria.csproj|solutionrelative:assets\\js\\draganddrop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67661DCA-30B9-450B-A04A-71836BF0E5EC}|Cafeteria.csproj|c:\\users\\tr network\\desktop\\cafeteria\\xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67661DCA-30B9-450B-A04A-71836BF0E5EC}|Cafeteria.csproj|solutionrelative:xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67661DCA-30B9-450B-A04A-71836BF0E5EC}|Cafeteria.csproj|c:\\users\\tr network\\desktop\\cafeteria\\assets\\css\\draganddrop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67661DCA-30B9-450B-A04A-71836BF0E5EC}|Cafeteria.csproj|solutionrelative:assets\\css\\draganddrop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DragandDrop.js",
+              "DocumentMoniker": "C:\\Users\\TR Network\\Desktop\\Cafeteria\\assets\\js\\DragandDrop.js",
+              "RelativeDocumentMoniker": "assets\\js\\DragandDrop.js",
+              "ToolTip": "C:\\Users\\TR Network\\Desktop\\Cafeteria\\assets\\js\\DragandDrop.js",
+              "RelativeToolTip": "assets\\js\\DragandDrop.js",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-06T18:11:28.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DragandDrop.css",
+              "DocumentMoniker": "C:\\Users\\TR Network\\Desktop\\Cafeteria\\assets\\css\\DragandDrop.css",
+              "RelativeDocumentMoniker": "assets\\css\\DragandDrop.css",
+              "ToolTip": "C:\\Users\\TR Network\\Desktop\\Cafeteria\\assets\\css\\DragandDrop.css",
+              "RelativeToolTip": "assets\\css\\DragandDrop.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T17:40:48.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "template.xslt",
+              "DocumentMoniker": "C:\\Users\\TR Network\\Desktop\\Cafeteria\\xslt\\template.xslt",
+              "RelativeDocumentMoniker": "xslt\\template.xslt",
+              "ToolTip": "C:\\Users\\TR Network\\Desktop\\Cafeteria\\xslt\\template.xslt",
+              "RelativeToolTip": "xslt\\template.xslt",
+              "ViewState": "AgIAAPECAAAAAAAAAAAAwKkDAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2024-12-05T14:22:09.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
